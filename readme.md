@@ -39,7 +39,7 @@ where you can find the following block.
         'Ext.layout.*'
     ],
 ```
-If you are using any Ext component what is not required then you will see an error like: 
+If you are using any Ext component which is not required then you will see an error like: 
 > Uncaught Error: [Ext.createByAlias] Unrecognized alias: layout.vbox
 >     at Ext.Inventory.instantiateByAlias (client-app.entry.js:1)
 >     at Object.factory 
